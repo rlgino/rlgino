@@ -1,5 +1,14 @@
 ### Hi there 👋
+<hr />
 
+## About me!
+* I'm software engineer 👨🏻‍🔬 in [Veritran](https://www.veritran.com/)
+* I'm from Argentina 🇦🇷
+* I like writing posts in [dev.to](https://dev.to/rlgino)
+
+## Main skills
+* I'm a autodidact person. 📚 I like learning about tech, i am learning about Microservices Architecture ⚙️
+* I consider myself Leader with confidence towars my collegues 
 <!--
 **rlgino/rlgino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
