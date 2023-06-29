@@ -2,24 +2,17 @@
 <hr />
 
 ## About me!
-* I'm software engineer 👨🏻‍🔬 in [Veritran](https://www.veritran.com/)
+* I'm software engineer 👨🏻‍🔬 in [IQHive](https://test.iqhive.com/)
 * I'm from Argentina 🇦🇷
 * I like writing posts in [dev.to](https://dev.to/rlgino)
+* Also we streaming in Twitch and upload the videos to (YouTube)[https://www.youtube.com/@codewave-ar]
 
 ## Main skills
 * I'm a autodidact person. 📚 I like learning about tech, i am learning about Microservices Architecture ⚙️
 * I consider myself Leader with confidence towars my collegues 
-<!--
-**rlgino/rlgino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Favourite languages:
+* Golang ⭐️
+* Java 🔭
+* Kotlin 🔭
+* I can do some stuff with Javascript and ReactJS ⚡ 
