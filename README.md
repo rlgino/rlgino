@@ -1,5 +1,4 @@
 ### Hi there 👋
-<hr />
 
 ## About me!
 * I'm software engineer 👨🏻‍🔬 in [IQHive](https://test.iqhive.com/)
