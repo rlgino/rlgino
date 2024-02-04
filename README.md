@@ -23,13 +23,13 @@
 
 ## Repositories to review:
 You can review my star repositories (and gift a star if you wish), review the code, download and run by yourself and suggest editions:
-* [Go user service](https://github.com/rlgino/nextjs-memoligarg)
+* [Go user service](https://github.com/rlgino/go-users-service)
 * [Java cards service](https://github.com/rlgino/java-cards-services)
 * [MemoLigArg](https://github.com/rlgino/nextjs-memoligarg)
 * [NewCooker (In progress)](https://github.com/rlgino/New-Cooker-App)
 
 ## Contact
 You can contact me by <br />
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter/rlgino/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]([https://www.twitter/rlgino/](https://twitter.com/rlgino))
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rlgino/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gino.luraschi@outlook.com.ar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gino.luraschi@gmail.com)
